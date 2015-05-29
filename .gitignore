@@ -1,0 +1,13 @@
+Temp/UnityLockfile
+Temp/*
+Temp/
+Library/ScriptAssemblies/
+Library/ScriptAssemblies/*
+Library/metadata/*
+Assets/Resources/images/sst/*
+Library/shadercompiler-*
+build_Data/Managed/*
+build_Data/*
+Library/assetDatabase3
+obj/*
+build.exe
